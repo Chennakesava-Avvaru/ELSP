@@ -1,4 +1,4 @@
-# ELSP
+# Migration-of-ETL-workflows (ELSP)
 
 - Project Objective: Migration of ETL workflows for Swiss Re, a global reinsurer, from an existing Informatica system to Azure cloud, aiming to modernize data integration and management.
 
